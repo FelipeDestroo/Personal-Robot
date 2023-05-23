@@ -1,5 +1,5 @@
 # Personal-Robot
-Código do "Personal Robot", desenvolvido para a competição de projeto de inovação promovido pela FIRST, na categoria FRC. 
+Projeto do "Personal Robot", desenvolvido para a competição de projeto de inovação promovido pela FIRST, na categoria FRC. 
 Foi utilizado o codificador de navegador P5.JS do qual possui diversas 
 bibliotecas pré-instaladas, para o auxílio das duas programações criadas, com o 
 propósito de se realizar os exercícios físicos de elevação lateral e rosca direta, 
