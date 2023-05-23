@@ -26,4 +26,4 @@ foi perfeita e marca a pontuação, caso a pessoa ultrapasse ou não chegue ao v
 estipulado, o programa vai requisitar para que a ação seja feita novamente até 
 conseguir terminar a tarefa.
 
-** ● Personal Robot - Elevação lateral:** https://editor.p5js.org/FelipeDestro/sketches/cxodEdLm9 (é necessário ter uma câmera/webcam para visualizar o programa funcionando)
+**● Personal Robot - Elevação lateral:** https://editor.p5js.org/FelipeDestro/sketches/cxodEdLm9 (é necessário ter uma câmera/webcam para visualizar o programa funcionando)
