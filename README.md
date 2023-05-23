@@ -1,6 +1,7 @@
 # Personal-Robot
-
-Projeto do "Personal Robot", desenvolvido para a competição de projeto de inovação promovido pela FIRST, na categoria FRC. 
+***
+## Propósito do projeto:
+desenvolvido para a competição de projeto de inovação promovido pela FIRST, na categoria FRC. 
 Foi utilizado o codificador de navegador P5.JS do qual possui diversas 
 bibliotecas pré-instaladas, para o auxílio das duas programações criadas, com o 
 propósito de se realizar os exercícios físicos de elevação lateral e rosca direta, 
@@ -25,7 +26,10 @@ que 80º e volte ao ponto de início do exercício, o programa entende que a exe
 foi perfeita e marca a pontuação, caso a pessoa ultrapasse ou não chegue ao valor 
 estipulado, o programa vai requisitar para que a ação seja feita novamente até 
 conseguir terminar a tarefa.
+***
 
 **● Personal Robot - Elevação lateral:** https://editor.p5js.org/FelipeDestro/sketches/cxodEdLm9 
 
 PS: (é necessário ter uma câmera/webcam para visualizar o programa funcionando)
+
+#7563 🤖💙
